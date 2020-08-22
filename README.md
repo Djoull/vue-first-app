@@ -3,7 +3,7 @@
 
 ## Client side
 ```
-cd /client
+cd app/client
 ```
 
 ## Client side setup
@@ -34,7 +34,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Server side
 ```
-cd /server
+cd app/server
 ```
 
 ## Server side setup
